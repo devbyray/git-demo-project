@@ -9,7 +9,7 @@ Git 101, the practical guide! - STEP 1
 - Setup username & password
 
 
-Git 101, the practical guide! - STEP 3: Branches
+# Git 101, the practical guide! - STEP 3: Branches
 
 What is a branch?
 
